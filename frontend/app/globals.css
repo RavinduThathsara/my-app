@@ -108,7 +108,7 @@ a {
   max-width: 550px;
 }
 
-.intro-copy > p:last-child {
+.intro-copy>p:last-child {
   color: #d8dfd6;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
@@ -148,7 +148,7 @@ a {
   margin: 0 0 14px;
 }
 
-.form-heading > p:last-child {
+.form-heading>p:last-child {
   color: #6d726a;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9rem;
@@ -320,7 +320,7 @@ form input::placeholder {
     max-width: 430px;
   }
 
-  .intro-copy > p:last-child {
+  .intro-copy>p:last-child {
     display: none;
   }
 
