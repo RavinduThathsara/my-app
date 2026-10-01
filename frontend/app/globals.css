@@ -167,6 +167,7 @@ form label {
 
 form input[type="email"],
 form input[type="password"],
+form input[type="tel"],
 form input[type="text"] {
   background: #fffdf9;
   border: 1px solid #d9d4ca;
